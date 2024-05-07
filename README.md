@@ -1,5 +1,5 @@
 ### Instruction
-*本工具使用 [hmac_sha256](https://github.com/h5p9sl/hmac_sha256) 作为加密算法。*  
+*本工具使用 [hmac_sha256 x64位](https://github.com/h5p9sl/hmac_sha256) 作为加密算法。*  
 本工具使用方法是编译成DLL文件，载入UnityEditor中使用。  
 ```
 ———————————————————————————————————————————————
